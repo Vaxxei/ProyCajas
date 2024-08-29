@@ -1,0 +1,32 @@
+*
+{
+    margin: 0px;
+}
+.niv1
+{
+  background-color: black;  
+  padding: 20px;
+}
+.niv2
+{
+    background-color: yellow;
+    padding: 20px;
+}
+.niv3
+{
+    background-color: blue;
+    padding: 20px;
+}
+.niv4
+{
+    background-color: chartreuse;
+    padding: 20px;
+    margin: 10px;
+}
+.niv5
+{
+    background-color: crimson;
+    padding: 20px;
+    text-align: center;
+    margin: 10px;
+}
